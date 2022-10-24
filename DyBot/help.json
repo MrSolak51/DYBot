@@ -1,0 +1,16 @@
+{
+  "Essential Commands" : {
+    "speak":  "Write on the picture what you text. Ex: botcuk speak hello world",
+    "dog": "Send a dog picture to the channel. Ex: botcuk dog",
+    "give me a dog photo": "Send a dog picture in your chosen category to the channel. Ex: botcuk give me a dog photo"
+  },
+    "Basic Commands" : {
+      "support": "Open my github. Ex: botcuk support",
+      "help": "Open this pages. Ex: botcuk help",
+      "daily \"msg\" HH MM SS": "Send the 'msg' on 'HH MM SS' to the channel. Ex: botcuk daily \"hello discord\" 12 00 00"
+    },
+  "Other Commands" : {
+       "profile":  "Give information about \"theProfile\". Ex: botcuk profile \"theProfile\""
+  }
+
+}
